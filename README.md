@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Hey, I'm Bitex aka Karan Vaniya (b1t3x0p)!</h1>
 <h3 align="center">🔰 Cyber Security Enthusiast | Ethical Hacker | Developer</h3>
 
-<img align="right" alt="Hacking" width="40" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Hacking" width="40" src="">
 
 ---
 
